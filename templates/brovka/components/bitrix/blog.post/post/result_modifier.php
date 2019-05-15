@@ -1,0 +1,5 @@
+<?
+
+
+GLOBAL $FAVORITES;
+$arResult['FAVORITES'] = $FAVORITES;

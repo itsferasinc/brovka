@@ -1,0 +1,19 @@
+.comment-last
+{
+    margin-bottom: 7px;
+}
+.comment-last .comment-last-title{
+    line-height:1;
+}
+.comment-last .comment-last-user a{
+    font-size:12px;
+    color:#1b6d85;
+}
+.comment-last .comment-last-user i{
+
+}
+.comment-last .comment-last-user i:before{
+    margin-left:0;
+    font-size:14px;
+    color:#02378E;
+}
